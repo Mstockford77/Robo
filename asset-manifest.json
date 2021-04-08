@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Robo/static/css/main.5b49a34c.chunk.css",
+    "main.js": "/Robo/static/js/main.d7185a38.chunk.js",
+    "main.js.map": "/Robo/static/js/main.d7185a38.chunk.js.map",
+    "runtime-main.js": "/Robo/static/js/runtime-main.811bb143.js",
+    "runtime-main.js.map": "/Robo/static/js/runtime-main.811bb143.js.map",
+    "static/css/2.fe359a49.chunk.css": "/Robo/static/css/2.fe359a49.chunk.css",
+    "static/js/2.df928947.chunk.js": "/Robo/static/js/2.df928947.chunk.js",
+    "static/js/2.df928947.chunk.js.map": "/Robo/static/js/2.df928947.chunk.js.map",
+    "static/js/3.a1796986.chunk.js": "/Robo/static/js/3.a1796986.chunk.js",
+    "static/js/3.a1796986.chunk.js.map": "/Robo/static/js/3.a1796986.chunk.js.map",
+    "index.html": "/Robo/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/Robo/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.5b49a34c.chunk.css.map": "/Robo/static/css/main.5b49a34c.chunk.css.map",
+    "static/js/2.df928947.chunk.js.LICENSE.txt": "/Robo/static/js/2.df928947.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Robo/static/media/HemicubeLogo_PERSONAL_USE_ONLY.291510cb.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.811bb143.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.df928947.chunk.js",
+    "static/css/main.5b49a34c.chunk.css",
+    "static/js/main.d7185a38.chunk.js"
+  ]
+}
